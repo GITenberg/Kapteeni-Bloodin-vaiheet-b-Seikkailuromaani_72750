@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '55475'
     url: http://www.gutenberg.org/2009/agents/55475
     wikipedia: https://fi.wikipedia.org/wiki/Paavo_Kes%C3%A4niemi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sabatini, Rafael
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/640
     wikipedia: https://en.wikipedia.org/wiki/Rafael_Sabatini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72750#Kapteeni-Bloodin-vaiheet-b-Seikkailuromaani
 gutenberg_issued: '2024-01-18'
 gutenberg_type: Text
 identifiers:
